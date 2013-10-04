@@ -57,7 +57,7 @@ GIT
 
 GIT
   remote: git://github.com/spree/spree_hub_connector.git
-  revision: 8102a99c576aca2bc8ad7d4fb8bc0bf169a1c7c2
+  revision: 8bb2cdc73b67c5da3dba02c52a36dfb85392bc2e
   branch: 2-0-stable
   specs:
     spree_hub_connector (1.3.0)
